@@ -29,5 +29,5 @@ To follow along with this tutorial, you’ll need:
 
 ## 🔹 Installation & Setup  
 
-The full description of these project can be viewed at: [YouTube](https://pages.github.com/)
+The full description of these project can be viewed at: [YouTube](https://youtu.be/pSa_gGenvkU)
 
