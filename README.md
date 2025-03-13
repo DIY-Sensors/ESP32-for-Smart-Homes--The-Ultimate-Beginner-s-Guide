@@ -1,0 +1,2 @@
+# ESP32 for Smart Homes: The Ultimate Beginner’s Guide
+ Want to build your own smart home devices? This playlist takes you step by step through setting up ESP32 with various sensors, integrating them with Home Assistant, and making powerful IoT projects. Learn how to connect motion sensors, temperature sensors, smart cameras, and more—all with ESP32! Whether you’re a beginner or an advanced maker, this series will help you unlock the full potential of ESP32 for smart home automation. Subscribe and start building today!
